@@ -1,9 +1,4 @@
 # Palindrome Checker
-
-## Description
-
-The Palindrome Checker is a web-based application that allows users to check if a word or phrase is a palindrome in real-time. This project was inspired by the freeCodeCamp Palindrome Checker challenge and focuses on delivering a simple, user-friendly experience.
-
 ## Features
 
 - **Real-time Palindrome Checking:** As users type, the application instantly checks if the input is a palindrome and provides immediate feedback.
